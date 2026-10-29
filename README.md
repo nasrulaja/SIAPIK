@@ -84,6 +84,8 @@ siapik/
 
 ## 🚀 Cara Menjalankan
 
+Buka website melalui link berikut: https://siapiklatika.netlify.app/
+
 Karena memuat `data/*.json` via `fetch`, **jalankan lewat server lokal** (bukan buka `file://`):
 
 ```bash
@@ -134,22 +136,15 @@ Dirilis di bawah [MIT License](LICENSE).
 
 ---
 
-<p align="center">
-  <b>Dikembangkan oleh <a href="https://github.com/nasrulaja">Muhammad Arif Nasrullah</a></b><br>
-  XI RPL 2 · SMK Negeri 2 Singosari · Malang, Jawa Timur, Indonesia 🇮🇩
-</p>
-
----
-
 ## 👨‍💻 Pengembang
 
-| | |
-|---|---|
-| **Nama** | Muhammad Arif Nasrullah |
-| **Kelas** | XI RPL 2 |
-| **Sekolah** | SMK Negeri 2 Singosari |
-| **Lokasi** | Malang, Jawa Timur, Indonesia 🇮🇩 |
-| **GitHub** | [@nasrulaja](https://github.com/nasrulaja) |
+| | | | |
+|---|---|---|---|
+| **Nama** | Muhammad Arif Nasrullah | **Nama** | Danies Wahyu Hidayat |
+| **Kelas** | XI RPL 2 | **Kelas** | XI RPL 1 |
+| **Sekolah** | SMK Negeri 2 Singosari | **Sekolah** | SMK Negeri 2 Singosari |
+| **Lokasi** | Malang, Jawa Timur, Indonesia 🇮🇩 | **Lokasi** | Malang, Jawa Timur, Indonesia 🇮🇩 |
+| **GitHub** | [@nasrulaja](https://github.com/nasrulaja) | **GitHub** | [@danieswahyu27](https://github.com/danieswahyu27) |
 
 <p align="center">Dibuat dengan ❤️ untuk kesiapsiagaan kebakaran Indonesia 🇮🇩</p>
 
